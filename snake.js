@@ -27,25 +27,5 @@ $(".snakephoto4").fadeOut();
 
 });
 
-
-
-
-
-
-
-// before image fades out
-
-
-//$(".after").click(function(){
-//$(".after".fadeOut();
-
-	
-
-//alert($(".before").css("display"));
-
-// after image fades in
-
- // $(".before").hide();
-
     });
 });
